@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: monospace,sans-serif;
+}
+.site{
+    height : 9.375rem;
+    position: relative;
+    background-color: #ebecf1;
+}
+
+.propic{
+    position:absolute;
+    top:1.875em;
+    left:48%;
+    height: 5.625em;
+}
+.Top{
+    background-color:#ebecf1;
+    position: relative;
+    height: 32.90rem;
+}
+.img1{
+    margin-top: 6.65rem; 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+p{
+    line-height: 2;
+    
+}
+h4{
+    color : #24a19c90;
+    font-family: Hind Madurai;
+    letter-spacing: 0.050em;
+}
+h1{
+    font-family: Sacramento ;
+    margin: 0;
+    font-weight: 600;
+    font-size: 3.125em;
+    line-height: 2;
+    color : #24a19c;
+    font-style: italic;
+}
+h2{
+    font-family: Hind Madurai;
+    margin: 0;
+    font-size: 0.937em;
+    letter-spacing: 0.5em;
+    color : #24a19c;
+    font-weight: 500;
+    
+}
+h3{
+    font-family: cursive;
+    margin: 0;
+    font-size: 1.562em;
+    color : #24a19c;
+    font-weight: bold;
+    
+}
+.skills{
+    font-family: cursive;
+    margin: 0;
+    text-align: center;
+    font-size: 1.5625em;
+    color : #24a19c;
+    font-weight: bold;
+    
+}
+.bio{
+    position: relative;
+    text-align: left;
+    margin: 3.125% 20% 0.625em 20% ;
+    font-size: 0.875em;
+    font-family: cursive;
+    height: 20.75em;
+}
+.elec{
+    height: 17.25em;
+    float: left;
+    padding-right: 1.625em;
+}
+.highlight{
+    color: #24a19c;
+}
+.eduimg{
+    height: 5.625em;
+    float: right;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(189, 186, 186);
+    border-width: 0.5em;
+    width: 3.125em;
+
+}
+.Edu{
+    position: relative;
+    text-align: left;
+    margin: 3.125% 20% 0.625em 20% ;
+    font-family: cursive;
+    height: 15em;
+}
+.ic555{
+    height: 9.375em;
+    float: left;
+    padding-right: 0.625em;
+}
+.app{
+    height: 13.375em;
+    float: left;
+    padding-right: 0.825em;
+}
+.works{
+    position: relative;
+    text-align: left;
+    margin: 3.125% 20% 0.625em 20% ;
+    font-size: 0.875em;
+    font-family: cursive;
+    height: 15.625em;
+}
+.braille{
+    float: right;
+    height:  9.375em;
+}
+.watch{
+    position: relative;
+    text-align: left;
+    margin: 3.125% 20% 0.625em 20% ;
+    font-size: 0.875em;
+    font-family: cursive;
+    height: 17em;
+}
+#h2{
+    font-family: cursive;
+}
+.contact{
+    height: 30em;
+    align-content: center;
+    margin: 3.125% 20% 0.625em 20% ;
+}
+.bottom{
+    height: 10em;
+    align-content: center;
+    margin: 3.125% 0 0.625em  ;
+    background-color: #1fcaa5;
+}
+.btn {
+    background: #34d976;
+    background-image: -webkit-linear-gradient(top, #34d976, #2980b9);
+    background-image: -moz-linear-gradient(top, #34d976, #2980b9);
+    background-image: -ms-linear-gradient(top, #34d976, #2980b9);
+    background-image: -o-linear-gradient(top, #34d976, #2980b9);
+    background-image: linear-gradient(to bottom, #34d976, #2980b9);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: cursive;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+.span1{
+    padding-left: 10.2em;
+}  
+.span2{
+    padding-left: 9.1em;
+} 
+.span3{
+    padding-left: 7.45em;
+}
+.span4{
+    padding-left: 7.42em;
+}
+.span5{
+    padding-left: 8em;
+}
+.span6{
+    padding-left: 8.6em;
+}
+.span7{
+    padding-left: 9.15em;
+}
+.span8{
+    padding-left: 7.5em;
+}
+.span9{
+    padding-left: 9.15em;
+}
+.span{
+    padding-left: 8.5em;
+}
+.span10{
+    padding-left: 4.2em;
+}
+.span11{
+    padding-left: 11.40em;
+}
+
+  .table{
+      float:left;
+      padding-right:15em ;
+  }
+  .btn:hover {
+    background: #33cc57;
+    background-image: -webkit-linear-gradient(top, #33cc57, #34d9c3);
+    background-image: -moz-linear-gradient(top, #33cc57, #34d9c3);
+    background-image: -ms-linear-gradient(top, #33cc57, #34d9c3);
+    background-image: -o-linear-gradient(top, #33cc57, #34d9c3);
+    background-image: linear-gradient(to bottom, #33cc57, #34d9c3);
+    text-decoration: none;
+  }
+  .nobullets {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+    font-size: large;
+  }
+  .bot{
+      align-content: center;
+      padding-top: 2em;
+  }
+  .media{
+    text-decoration: none;
+    font-family: cursive;
+    padding-right: 5em;
+  }
+  a:hover{
+      color: #f8ecec;
+  }
